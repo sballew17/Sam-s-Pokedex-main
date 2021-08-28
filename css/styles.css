@@ -1,0 +1,59 @@
+/*
+Colors used
+Background: lightgray
+Text color: black
+*/
+
+body{background-color: lightgray;
+  text-align: left;
+}
+body{font-family: 'Lato', sans-serif;
+font-weight:400;
+font-size: 20px;
+/*sets the font size to 16px */
+line-height: 2.0;
+/* Sets teh line-height to 1.6*/
+color: black;
+}
+
+
+.modal-body {
+  color: black;
+  background-color: lightgray;
+}
+
+.modal-header {
+  background-color: #343a40;
+  color: white;
+}
+
+.modal-footer {
+  background-color: #343a40;
+  color: white;
+}
+
+.list-group-item {
+  text-align: center;
+  width: 700px;
+  margin: 40px auto;
+  color: black;
+  background-color: #343a40;
+  }
+
+.btn.btn-block {
+  font-size: 30px;
+  color: black;
+  background-color: lightgray
+}
+
+.navbar-brand{
+  color: white;
+  background-color: #343a40;
+
+}
+
+.navbar-light bg-light {
+  color: white;
+  background-color: #343a40;
+
+}
